@@ -1,0 +1,15 @@
+C:\Users\Carlo\source\repos\Beginning\Beginning\bin\Debug\net6.0\Beginning.exe
+C:\Users\Carlo\source\repos\Beginning\Beginning\bin\Debug\net6.0\Beginning.deps.json
+C:\Users\Carlo\source\repos\Beginning\Beginning\bin\Debug\net6.0\Beginning.runtimeconfig.json
+C:\Users\Carlo\source\repos\Beginning\Beginning\bin\Debug\net6.0\Beginning.dll
+C:\Users\Carlo\source\repos\Beginning\Beginning\bin\Debug\net6.0\Beginning.pdb
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.dll
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\refint\Beginning.dll
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.pdb
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\Beginning.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\Beginning\Beginning\obj\Debug\net6.0\ref\Beginning.dll
